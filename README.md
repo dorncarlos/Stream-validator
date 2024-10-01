@@ -1,5 +1,5 @@
 **INSTALATION** 
-git clone https://github.com/your-username/stream-validator.git
+git clone https://github.com/dorncarlos/stream-validator.git
 cd stream-validator
 npm install
 **DEPENDENCIES**
